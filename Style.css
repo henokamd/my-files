@@ -1,8 +1,8 @@
 div {
     background: linear-gradient(rgb(144, 214, 144),rgb(229, 229, 102),rgb(215, 113, 113));
     border-radius: 7%;
-    width:50px;
-    height:100px;
+    width:200px;
+    height:400px;
     padding: 10em;
     box-shadow: black ,4px , 8px;
    
@@ -10,8 +10,13 @@ div {
 
 }
 .card {
-    font-size:23px;
+    font-size:50px;
     text-decoration: wavy;
     font: bolder;
     text-align: left;
+    ;
+}
+
+.baem {
+    background: image-set();
 }
