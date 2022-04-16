@@ -1,11 +1,17 @@
-table {
+div {
     background: linear-gradient(rgb(144, 214, 144),rgb(229, 229, 102),rgb(215, 113, 113));
-    border-radius: 0.1fr;
-    width:500px;
-    height:600px;
-    font-weight: bolder;
-    font-size:23px;
+    border-radius: 7%;
+    width:50px;
+    height:100px;
     padding: 10em;
-    
+    box-shadow: black ,4px , 8px;
+   
+    justify-self: (4,3,3);
 
+}
+.card {
+    font-size:23px;
+    text-decoration: wavy;
+    font: bolder;
+    text-align: left;
 }
